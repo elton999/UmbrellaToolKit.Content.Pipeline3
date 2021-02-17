@@ -1,0 +1,9 @@
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\Game1.csprojAssemblyReference.cache
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\Game1.AssemblyInfoInputs.cache
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\Game1.AssemblyInfo.cs
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\Game1.csproj.CoreCompileInputs.cache
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\bin\Debug\netstandard2.0\MonoGame.ContentPipeline.UmbrellaToolKit.deps.json
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\bin\Debug\netstandard2.0\MonoGame.ContentPipeline.UmbrellaToolKit.dll
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\bin\Debug\netstandard2.0\MonoGame.ContentPipeline.UmbrellaToolKit.pdb
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\MonoGame.ContentPipeline.UmbrellaToolKit.dll
+D:\games_projects\umbrella\UmbrellaToolKit.Pipeline\MonoGame.ContentPipeline.UmbrellaToolKit2\MonoGame.ContentPipeline.UmbrellaToolKit2\Game1\Game1\obj\Debug\netstandard2.0\MonoGame.ContentPipeline.UmbrellaToolKit.pdb
