@@ -37,7 +37,7 @@ namespace Game1
 
         public override string GetRuntimeReader(TargetPlatform targetPlatform)
         {
-            return "UmbrellaToolKit.Sprite.AsepriteReader, UmbrellaToolKit";
+            return "UmbrellaToolKit.Sprite.AsepriteReader, UmbrellaToolsKit";
         }
     }
 }

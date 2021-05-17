@@ -55,7 +55,10 @@ namespace Game1
                         output.Write((int)value.layers[i].grid2D[x].Count);
                         for (var y = 0; y < value.layers[i].grid2D[x].Count; y++)
                         {
-                            output.Write((string)value.layers[i].grid2D[x][y]);
+                            if(value.layers[i].grid2D[x][y] != null)
+                                output.Write((string)value.layers[i].grid2D[x][y]);
+                            else
+                                output.Write((string)"0");
                         }
                     }
                 }
@@ -97,7 +100,16 @@ namespace Game1
                         output.Write((float)value.layers[i].entities[e].originY);
                         output.Write((int)value.layers[i].entities[e].width);
                         output.Write((int)value.layers[i].entities[e].height);
-                        // output.Write((string)value.layers[i].entities[e].values);
+                        
+                        //values
+                        if (value.layers[i].entities[e].values != null)
+                        {
+                            output.Write((int)value.layers[i].entities[e].values.Count);
+                            foreach(string key in value.layers[i].entities[e].values.Keys)
+                                output.Write((string)key+":"+value.layers[i].entities[e].values[key]);
+                        }
+                        else
+                            output.Write((int)0);
 
                         //nodes
                         if (value.layers[i].entities[e].nodes != null)
@@ -119,7 +131,7 @@ namespace Game1
 
         public override string GetRuntimeReader(TargetPlatform targetPlatform)
         {
-            return "UmbrellaToolKit.Ogmo.TileMapReader, UmbrellaToolKit";
+            return "UmbrellaToolKit.Ogmo.TileMapReader, UmbrellaToolsKit";
         }
     }
 }
